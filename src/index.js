@@ -1,8 +1,10 @@
 // @ts-check
 
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App.jsx';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
-
 import '../assets/application.scss';
 
 // import faker from 'faker';
@@ -16,3 +18,8 @@ if (process.env.NODE_ENV !== 'production') {
 
 console.log('it works!');
 console.log('gon', gon);
+
+ReactDOM.render(
+    <App channels={gon.channels}/>,
+    document.getElementById('chat'),
+);

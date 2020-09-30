@@ -1,4 +1,4 @@
-[![Github Actions Status](https://github.com/hexlet-components/projects-frontend-l4-server/workflows/Node%20CI/badge.svg)](https://github.com/hexlet-components/projects-frontend-l4-server/actions)
+[![Node.js CI](https://github.com/Evgenymir/frontend-project-lvl4/workflows/Node%20CI/badge.svg)](https://github.com/Evgenymir/frontend-project-lvl4/actions)
 
 ## Requirements
 
