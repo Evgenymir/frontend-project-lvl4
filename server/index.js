@@ -3,6 +3,7 @@
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 
+// eslint-disable-next-line import/no-extraneous-dependencies
 import path from 'path';
 import Pug from 'pug';
 import socket from 'socket.io';
