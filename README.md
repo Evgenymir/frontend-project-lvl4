@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+* [Heroku CLI](https://hexlet-project-4.herokuapp.com/)
 
 ## Install
 
